@@ -1,0 +1,35 @@
+_repo: Descripci-n-colonial-libro-primero--1-2-_39579
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39579-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Lizárraga, Reginaldo de
+    aliases:
+    - Lizarraga, Reginaldo de
+    - De Lizárraga, Reginaldo
+    deathdate: 1615
+    gutenberg_agent_id: '40092'
+    url: http://www.gutenberg.org/2009/agents/40092
+  editor:
+    agent_name: Rojas, Ricardo
+    birthdate: 1882
+    deathdate: 1957
+    gutenberg_agent_id: '45385'
+    url: http://www.gutenberg.org/2009/agents/45385
+description: ''
+gutenberg_issued: '2012-04-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39579'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E011'
+- !lcsh 'South America -- Description and travel'
+- !lcsh 'America -- Early accounts to 1600'
+title: Descripción colonial, libro primero (1/2)
+url: http://www.gutenberg.org/ebooks/39579
